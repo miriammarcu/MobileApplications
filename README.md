@@ -1,16 +1,16 @@
-#MOBILE APPLICATIONS
+# MOBILE APPLICATIONS
 
-TARGET:
+# TARGET:
 Design a mobile application in Android and React-Native with the given requirements.
 
-Here are the requirements:
+# Here are the requirements:
 
-  -authentication.
-  -CRUD user interfaces.
-  -Offline support (sync adapters).
-  -Online support.
-  -Navigations between screens/views.
-  -Bonus: different layouts, depending on the device size (phone, tablet, etc.).
+  - authentication.
+  - CRUD user interfaces.
+  - Offline support (sync adapters).
+  - Online support.
+  - Navigations between screens/views.
+  - Bonus: different layouts, depending on the device size (phone, tablet, etc.).
   
 Like everything in this world, there is a story. Here it is the story of this application:
 
