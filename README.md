@@ -12,7 +12,7 @@ Design a mobile application in Android and React-Native with the given requireme
   - Navigations between screens/views.
   - Bonus: different layouts, depending on the device size (phone, tablet, etc.).
   
-Like everything in this world, there is a story. Here it is the story of this application:
+# In this world there is always a story. Here it is the story of this application:
 
 The application is an event manager for people in the Christian community. It has two types of users: admin and client. 
 After logging in the CLIENT user is met with a list of events such as choir rehearsal, meeting with the young, celebrations. The user can mark as going to one or more of the these events. 
